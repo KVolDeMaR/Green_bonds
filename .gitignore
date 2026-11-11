@@ -1,0 +1,13 @@
+# SSH keys — never commit private keys
+*id_ed25519*
+*id_rsa*
+*.pem
+*.ppk
+
+# Excel lock/temp files
+~$*
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
